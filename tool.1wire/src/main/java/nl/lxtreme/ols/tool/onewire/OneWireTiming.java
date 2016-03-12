@@ -57,10 +57,10 @@ final class OneWireTiming
       // shorter...
       this.aMin = 3;
       this.aMax = 15;
-      this.bMin = 59;
-      this.cMin = 60;
+      this.bMin = 57;
+      this.cMin = 57;
       this.cMax = 120;
-      this.dMin = 5.3;
+      this.dMin = 3;
       this.eMax = 9.3;
       this.gMin = 0;
       this.hMin = 480;
